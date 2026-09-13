@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript, dart, ML, AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shreyuraju?tab=repositories](https://github.com/shreyuraju?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/shreyuraju?tab=repositories](https://github.com/shresm0?tab=repositories)
 
 - 💬 Ask me about **React JS, Node.JS,**
 
